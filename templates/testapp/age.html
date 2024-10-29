@@ -1,0 +1,9 @@
+{% extends 'testapp/base.html' %}
+{% block body_block %}
+    <h1>Hello {{name}}, Provide Age</h1>
+    <form action="/gf">
+      {{form.as_p}}
+      {% csrf_token %}
+      <input type="submit" value="Submit Age">
+    </form>
+{% endblock %}
