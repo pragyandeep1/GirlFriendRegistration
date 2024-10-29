@@ -1,6 +1,7 @@
 # GirlFriendRegistration
  Django Application for registering your girlfriend name
 <h3>Sample Browser Screenshots</h3>
+
 ![image](https://github.com/user-attachments/assets/0fe12594-433e-4fd5-ba6e-e059866b8d51)
 
 ![image](https://github.com/user-attachments/assets/722ad4f0-20f9-4579-8311-a6f16f3dae57)
